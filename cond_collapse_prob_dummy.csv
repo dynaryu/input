@@ -1,0 +1,13 @@
+FunctionType, # of collapse, probability, start, end
+Suspension, 1, 0.075, 0, 1
+Suspension, 1, 0.075, -1, 0
+Suspension, 2, 0.35, -1, 1
+Suspension, 3, 0.025, -1, 2
+Suspension, 3, 0.025, -2, 1
+Suspension, 4, 0.10, -2, 2
+Strainer, 1, 0.075, 0, 1
+Strainer, 1, 0.075, -1, 0
+Strainer, 2, 0.35, -1, 1
+Strainer, 3, 0.025, -1, 2
+Strainer, 3, 0.025, -2, 1
+Strainer, 4, 0.10, -2, 2
